@@ -3,7 +3,6 @@ The code is in the Leaflet part 1 and 2. It can also be found in Leaflet Map 1 a
 
 ---
 
-```markdown
 # Leaflet Challenge: Visualizing Geological Data
 
 ## Project Overview
@@ -54,27 +53,16 @@ leaflet-challenge/
 │   └── index.html           
 └── README.md                # Project documentation
 
-```
+Getting Started
+Clone the Repository:
 
----
-
-## Getting Started
-
-1. **Clone the Repository:**
-```bash
+Bash
 git clone [https://github.com/talibahnt/leaflet-challenge.git](https://github.com/talibahnt/leaflet-challenge.git)
+Open the Map:
+Because this project relies exclusively on client-side JavaScript, you do not need to install an expansive backend environment. Simply open the index.html file within either directory directly in a web browser, or launch it with a development environment server extension like VS Code's Live Server.
 
-```
-
-
-2. **Open the Map:**
-Because this project relies exclusively on client-side JavaScript, you do not need to install an expansive backend environment. Simply open the `index.html` file within either directory directly in a web browser, or launch it with a development environment server extension like VS Code's **Live Server**.
-
-```
 
 ***
 
 ### Pro-Tip for your Repository:
 Once you add this file, if you have deployed this project using **GitHub Pages**, you can add a link to the live preview directly at the top of the README or inside the repository's "About" section on the right side of the GitHub UI.
-
-```
